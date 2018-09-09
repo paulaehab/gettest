@@ -1,0 +1,24 @@
+{
+  "name": "gittest",
+  "version": "1.0.0",
+  "description": "This is a test dirctory to learn Git",
+  "main": "index.html",
+  "scripts": {
+    "start":" npm run lite ",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulaehab/gittest.git"
+  },
+  "author": "Paula Ehab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulaehab/gittest/issues"
+  },
+  "homepage": "https://github.com/paulaehab/gittest#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
